@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x200/FF7F50/ffffff?text=Welcome+to+My+GitHub+Profile" alt="Banner" />
+  <img src="https://via.placeholder.com/1200x200/003366/ffffff?text=Welcome+to+Hyowon+GitHub+Profile" alt="Banner" />
 </p>
 
 <!--타이틀 부분-->
