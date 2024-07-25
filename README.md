@@ -2,8 +2,8 @@
 <h2 align="center">BackEnd Developer 꾸준히 성장하는 개발자 송효원입니다. 👋</h2>
 
 <p align="center">
-  👨‍💻 <a href="https://velog.io/@hyowonsong/" target="_blank">My Blog: https://velog.io/@hyowonsong/</a><br>
-  🌱 <a href="https://example.com/resume" target="_blank">RESUME: https://example.com/resume</a>
+  👨‍💻 <a href="https://velog.io/@hyowonsong/" target="_blank" style="text-decoration: none; color: inherit;">My Blog: https://velog.io/@hyowonsong/</a><br>
+  🌱 <a href="https://example.com/resume" target="_blank" style="text-decoration: none; color: inherit;">RESUME: https://example.com/resume</a>
 </p>
 
 <!--내용 부분-->
