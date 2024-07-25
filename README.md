@@ -2,10 +2,9 @@
 <h1 align="center">BackEnd Developer 꾸준히 성장하는 개발자 송효원입니다. 👋</h1>
 
 <p align="center">
-  <a href="https://velog.io/@hyowonsong/"><img src="https://img.shields.io/badge/Blog-%23F7DF1C?style=for-the-badge&logo=velog&logoColor=white" alt="Blog"></a>
-  <a href="RESUME"><img src="https://img.shields.io/badge/Resume-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Resume"></a>
+  👨‍💻 <a href="https://velog.io/@hyowonsong/">My Blog</a><br>
+  🌱 <a href="RESUME">RESUME</a>
 </p>
-
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
