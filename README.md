@@ -1,3 +1,8 @@
+<!-- 상단 배너 -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x200/FF7F50/ffffff?text=Welcome+to+My+GitHub+Profile" alt="Banner" />
+</p>
+
 <!--타이틀 부분-->
 BackEnd Developer 꾸준히 성장하는 개발자 송효원입니다. 👋
 - 👨‍💻 My Blog : https://velog.io/@hyowonsong/
