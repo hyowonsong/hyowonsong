@@ -1,9 +1,9 @@
 <!-- 타이틀 부분 -->
-<h1 align="center">BackEnd Developer 꾸준히 성장하는 개발자 송효원입니다. 👋</h1>
+<h2 align="center">BackEnd Developer 꾸준히 성장하는 개발자 송효원입니다. 👋</h2>
 
 <p align="center">
-  👨‍💻 <a href="https://velog.io/@hyowonsong/">My Blog</a><br>
-  🌱 <a href="RESUME">RESUME</a>
+  👨‍💻 <a href="https://velog.io/@hyowonsong/" target="_blank">My Blog: https://velog.io/@hyowonsong/</a><br>
+  🌱 <a href="https://example.com/resume" target="_blank">RESUME: https://example.com/resume</a>
 </p>
 
 <!--내용 부분-->
