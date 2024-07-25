@@ -3,14 +3,6 @@ BackEnd Developer 꾸준히 성장하는 개발자 송효원입니다. 👋
 - 👨‍💻 My Blog : https://velog.io/@hyowonsong/
 - 🌱 RESUME : RESUME
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/hyowonsong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyowonsong&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=dark" />
-  </a>
-</p>
-
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -45,3 +37,10 @@ BackEnd Developer 꾸준히 성장하는 개발자 송효원입니다. 👋
 </div>
 
 <br>
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/hyowonsong">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyowonsong&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=light" />
+  </a>
+</p>
