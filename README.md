@@ -3,7 +3,6 @@
 
 <p align="center">
   • 👨‍💻 <a href="https://velog.io/@hyowonsong/series" target="_blank" style="text-decoration: none; color: inherit;">My Blog: https://velog.io/@hyowonsong/series</a><br>
-  • 🌱 <a href="https://www.notion.so/bb00964bf7a741a9abc993bdb3ac2395" target="_blank" style="text-decoration: none; color: inherit;">RESUME: https://www.notion.so/bb00964bf7a741a9abc993bdb3ac2395</a>
 </p>
 
 <!-- Tech Stack -->
